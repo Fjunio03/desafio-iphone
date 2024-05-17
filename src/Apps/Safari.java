@@ -1,4 +1,7 @@
+package Apps;
 import java.util.Scanner;
+
+import Interfaces.NavegadorInternet;
 
 public class Safari implements NavegadorInternet{
 

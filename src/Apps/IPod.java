@@ -1,4 +1,7 @@
+package Apps;
 import java.util.Scanner;
+
+import Interfaces.ReprodutorMusical;
 
 public class IPod implements ReprodutorMusical{
     Scanner s = new Scanner(System.in);
